@@ -5,8 +5,9 @@ assign users to groups, create files, set permissions, and verify ownership.
 This project demonstrates hands-on experience with the Linux Command Line Interface (CLI).
 
 ---
-# 1. Creating Directory and Changing the Directory
+
 ```bash
+# 1. Creating Directory and Changing the Directory
 mkdir google
 cd google
 
