@@ -37,6 +37,9 @@ to specific files.
 - Expand to DevOps use cases
 
 ## Screenshots
+The following screenshots show the output of key Linux commands
+used for user, group, and permission management.
+
 - Users List: ![Users](screenshots/users.png)
 - Groups List: ![Groups](screenshots/groups.png)
 -File Permissions: ![Permissions](screenshots/permissions.png)
